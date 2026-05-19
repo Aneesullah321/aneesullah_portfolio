@@ -270,28 +270,7 @@ const projects = [
     source_code_link: 'https://mod-ai-six.vercel.app/',
   },
   
- 
-  // {
-  //   name: 'News App',
-  //   description:
-  //     'This is a web application that provides news articles from various categories sourced from an API. The app is built using React and Bootstrap, It also have multiple categories to filter from . ',
-  //   tags: [
-  //     {
-  //       name: 'React',
-  //       color: 'blue-text-gradient',
-  //     },
-  //     {
-  //       name: 'tailwind',
-  //       color: 'green-text-gradient',
-  //     },
-  //     {
-  //       name: 'new -API',
-  //       color: 'pink-text-gradient',
-  //     },
-  //   ],
-  //   image: news,
-  //   source_code_link: 'https://github.com/Anubhav-dev-web/newsapp',
-  // },
+
 ];
 
 export { services, technologies, experiences, projects, selfpro };

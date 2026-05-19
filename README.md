@@ -64,7 +64,12 @@ Welcome to my React portfolio! This project showcases my skills, projects, and e
 
 ## Screenshots
 
+<<<<<<< HEAD
 <img width="1898" height="964" alt="collaborator" src="https://github.com/user-attachments/assets/c1335f5c-0413-4d19-adee-2e36495ab292" />
+=======
+  <img width="1898" height="964" alt="collaborator" src="https://github.com/user-attachments/assets/c1335f5c-0413-4d19-adee-2e36495ab292" />
+
+>>>>>>> 1289dbcd07f79813b92c4dd6020330c6f8d89e04
 
 
 
