@@ -36,7 +36,7 @@ const Hero2 = () => {
             data-aos-easing="ease-in-sine"
             className="lg:w-1/2 mb-10 lg:mb-0 p-0 md:p-20">
             <h1 className="text-2xl lg:text-3xl font-bold mb-4">
-              Hey !
+              Hi !
             </h1>
 
             <h1 className="text-xl lg:text-7xl font-bold mb-4">
@@ -44,7 +44,7 @@ const Hero2 = () => {
             </h1>
 
             <p className="text-lg lg:text-xl mb-8 max-w-xl">
-              AI graduate transitioning into Data Analytics with strong skills in SQL, Python, and data visualization.
+              4 years BS in Artificial Intelligence graduate transitioning into Data Analytics with strong skills in SQL, Python, and data visualization.
             </p>
 
             {/* 🔥 Upgraded Button */}

@@ -129,6 +129,16 @@ const technologies = [
 ];
 
 const experiences = [
+  //{
+    //title: 'System Administrator',
+    //company_name: 'Car Zone Maint.W.shop L.L.C.SP-Dubai Branch',
+    //icon: l7,
+    //iconBg: '#ffffff',
+    //date: 'Present',
+    //points: [
+    //  "Managed system infrastructure, extracting performance data and developing automated SQL and Excel dashboards. Analyzed logs for trends, driving efficiency, while collaborating with cross-functional teams on data-informed decisions",
+    //],
+  //},
   {
     title: 'ML Engineering Intern',
     company_name: 'NovaXccelerate',
@@ -174,118 +184,69 @@ const experiences = [
 
 const projects = [
   {
-    name: 'Collaborator',
+    name: '3D Animated portfolio',
     description:
-      'Collaborator is an application that helps us to manage the tasks, track progress of the task and assign task to different team members.',
+      'My 3D animated portfolio is a visually dynamic showcase that highlights my skills, projects, and creative vision through immersive 3D animations and interactive design.',
     tags: [
       {
         name: 'react',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'CSS',
         color: 'green-text-gradient',
       },
       {
         name: 'tailwind',
         color: 'pink-text-gradient',
       },
-      {
-        name: 'toast',
-        color: 'green-text-gradient',
-      },
+
     ],
     image: collaborator,
     source_code_link: 'https://collaborators-8cwo.onrender.com/dashboard',
   },
-  // {
-  //   name: 'Job junction',
-  //   description:
-  //     'The  Job junction  project is a web-based platform designed to facilitate job posting and job seeking . It is a web-based platform designed for job posting and job seeking .',
-  //   tags: [
-  //     {
-  //       name: 'react',
-  //       color: 'blue-text-gradient',
-  //     },
-  //     {
-  //       name: 'mongodb',
-  //       color: 'green-text-gradient',
-  //     },
-  //     {
-  //       name: 'toast',
-  //       color: 'pink-text-gradient',
-  //     },
-  //     {
-  //       name: 'axios',
-  //       color: 'red-text-gradient',
-  //     },
-  //   ],
-  //   image: jobj,
-  //   source_code_link: 'https://job-junction-cfsh.onrender.com/',
-  // },
-  // {
-  //   name: 'Hey-',
-  //   description:
-  //     'This project is a chat application built using , React, Express, MongoDB, and Socket.IO. It allows users to connect with each other and communicate with each other.',
-  //   tags: [
-  //     {
-  //       name: 'React',
-  //       color: 'blue-text-gradient',
-  //     },
-  //     {
-  //       name: 'tailwind',
-  //       color: 'green-text-gradient',
-  //     },
-  //     {
-  //       name: 'socket-io',
-  //       color: 'white-text-gradient',
-  //     },
-  //   ],
-  //   image: chat,
-  //   source_code_link: 'https://hey-0b6j.onrender.com/',
-  // },
   {
-    name: 'Expense Tracker',
+    name: 'Campus GPT(Web Portal)',
     description:
-      'Expense Tracker is a full-stack web application built with GraphQL, React, and MongoDB. It allows users to track their expenses and manage their finances effectively.',
+      'Campus GPT is an AI-powered university assistant that helps students instantly access academic information, guidance, and campus services in one place.',
     tags: [
       {
-        name: 'React',
+        name: 'HTML',
         color: 'blue-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'CSS',
         color: 'green-text-gradient',
       },
       {
-        name: 'Graph-QL',
+        name: 'PYTHON',
         color: 'pink-text-gradient',
       },
     ],
     image: expt,
-    source_code_link: 'https://expense-tracker-z1iv.onrender.com/login',
+    source_code_link: 'https://github.com/Aneesullah321/CampusGPT-Hazara-university-portal.git',
   },
   {
-    name: 'Easy-share',
+    name: 'Credit Card Fraud Detection using ML',
     description:
-      'This web application allows users to securely share files of any type with others. Built with Node.js, Express.js, EJS, Tailwind CSS, and MongoDB, it offers features like password protection for shared links.',
+      'A machine learning system that detects credit card fraud by analyzing transaction patterns using classification models like Logistic Regression, Random Forest, and XGBoost.',
     tags: [
       {
-        name: 'React',
+        name: 'Python',
         color: 'blue-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'HTML',
         color: 'green-text-gradient',
       },
       {
-        name: 'express',
+        name: 'CSS',
         color: 'pink-text-gradient',
       },
     ],
     image: fileshare,
     source_code_link:
-      'https://github.com/Anubhav-dev-web/CodeClauseInternship_File-Sharing-Platform',
+      'https://github.com/Aneesullah321/Credit-card-fraud-detection-using-machine-learning',
   },
   {
     name: 'Mod-AI',
@@ -308,49 +269,8 @@ const projects = [
     image: modAi,
     source_code_link: 'https://mod-ai-six.vercel.app/',
   },
-  {
-    name: 'EvoGym',
-    description:
-      'Fitness Site Landing Page project! This landing page is designed for fitness enthusiasts and is built with React, Tailwind CSS, Vite, TypeScript, Framer Motion etc.',
-    tags: [
-      {
-        name: 'react',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'framer-motion',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'typescript',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: evogym,
-    source_code_link: 'https://evo-fitness.netlify.app/',
-  },
-
-  {
-    name: 'Article summarizer',
-    description:
-      'This website serves as a tool to summarize lengthy articles into concise and digestible summaries. It leverages the power of GPT AI model to generate accurate and coherent summaries.',
-    tags: [
-      {
-        name: 'React',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'tailwind',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'GPT-4 model',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: sumzz,
-    source_code_link: 'https://ai-article-summarizer-livid.vercel.app/',
-  },
+  
+ 
   // {
   //   name: 'News App',
   //   description:

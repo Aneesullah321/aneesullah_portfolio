@@ -36,7 +36,7 @@ Welcome to my React portfolio! This project showcases my skills, projects, and e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Anubhav-dev-web/3D-portfolio-.git
+   git clone https://github.com/Aneesullah321/aneesullah_portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
