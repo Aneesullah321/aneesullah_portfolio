@@ -64,7 +64,8 @@ Welcome to my React portfolio! This project showcases my skills, projects, and e
 
 ## Screenshots
 
-![port folio](https://github.com/Anubhav-dev-web/3D-portfolio-/assets/80172002/32aeb23e-a619-4d0e-beca-141135c4d2c1)
+![port folio](  <img width="1898" height="964" alt="collaborator" src="https://github.com/user-attachments/assets/c1335f5c-0413-4d19-adee-2e36495ab292" />
+)
 
 
 
